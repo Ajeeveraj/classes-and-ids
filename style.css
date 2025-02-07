@@ -7,9 +7,18 @@ html,body {
 h1{   
       font: size 50px;;
 
-
-
-
 }
+
+.name  {
+
+color: pink;
+
+background-color: aquamarine;
+
+   border:8px groove ;
+
+  }
+
+
 
 
